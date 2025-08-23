@@ -13,12 +13,14 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
