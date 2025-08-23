@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
