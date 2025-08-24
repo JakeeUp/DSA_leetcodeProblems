@@ -15,6 +15,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
