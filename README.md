@@ -13,6 +13,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -36,6 +38,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -62,6 +65,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
