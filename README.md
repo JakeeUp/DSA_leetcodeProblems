@@ -16,6 +16,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
