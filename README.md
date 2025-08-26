@@ -18,6 +18,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Hash Table
 |  |
