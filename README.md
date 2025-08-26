@@ -8,6 +8,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0002-add-two-numbers](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
