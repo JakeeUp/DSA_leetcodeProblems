@@ -15,6 +15,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0001-two-sum](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
