@@ -66,6 +66,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0014-longest-common-prefix](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -138,6 +140,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0022-generate-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
