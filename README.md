@@ -26,6 +26,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [3719-longest-balanced-subarray-i](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
@@ -79,6 +81,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
