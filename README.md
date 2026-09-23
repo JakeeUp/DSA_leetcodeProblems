@@ -26,6 +26,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0005-longest-palindromic-substring](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
