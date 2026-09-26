@@ -11,6 +11,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0009-palindrome-number](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0035-search-insert-position](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
