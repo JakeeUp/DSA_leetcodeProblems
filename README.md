@@ -35,6 +35,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
+| [0977-squares-of-a-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0088-merge-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
