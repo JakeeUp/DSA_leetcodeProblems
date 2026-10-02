@@ -12,6 +12,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0012-integer-to-roman](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 ## Trie
 |  |
