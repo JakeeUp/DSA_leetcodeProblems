@@ -34,6 +34,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0977-squares-of-a-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
@@ -115,6 +117,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0088-merge-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -188,5 +192,18 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
