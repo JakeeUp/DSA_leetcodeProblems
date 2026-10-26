@@ -1,3 +1,5 @@
+//using namespace std not good practice
+
 using namespace std;
 
 class Solution {
