@@ -13,6 +13,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0013-roman-to-integer](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 | [0043-multiply-strings](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 ## Trie
@@ -210,4 +213,8 @@ A collection of LeetCode questions that i solved! - Created using [LeetHub v2](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JakeeUp/DSA_leetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
